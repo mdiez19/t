@@ -1,0 +1,6 @@
+subnets:
+  - REPLACE_ME_PRIV_SUBNET1
+awsAccountId: REPLACE_ME_AWS_ACCT_ID
+# This bucket was created in Terraform
+bucketName: REPLACE_ME_DEPLOYMENT_BUCKET
+postfix: ""
